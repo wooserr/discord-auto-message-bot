@@ -1,2 +1,2 @@
-# discord-auto-msesage-bot
+# discord-auto-message-bot
 Discord automatic bot project.
