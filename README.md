@@ -5,4 +5,4 @@ Discord automatic bot project.
 
 * Note: Do not start the Discord module without installing it!
 
-* Discord Module: Open CMD > Enter quotation mark "pip install discord" 
+* Discord Module: Open CMD > Enter without quotation mark "pip install discord" 
